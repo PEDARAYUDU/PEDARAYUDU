@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail:ramavathpeddarayudu96404@gmail.com
+- 📫 How to reach me gmail:rayuduramavath0@gmail.com
 
 <!---
 PEDARAYUDU/PEDARAYUDU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
