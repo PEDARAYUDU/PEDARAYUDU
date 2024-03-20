@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PEDARAYUDU
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:ramavathpeddarayudu96404@gmail.com
 
